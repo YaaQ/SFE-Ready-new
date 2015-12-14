@@ -13,8 +13,8 @@ Author: Joanna Tomanek
 Submitted: Fri, June 13 2014 by Felix Jung
 
 Input: 
-- a - alpha value
-- lag - lag value
+- a : alpha value
+- lag : lag value
 
 Example: 
 - a=0.9, lag=30

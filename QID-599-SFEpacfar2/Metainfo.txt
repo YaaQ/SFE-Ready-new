@@ -13,9 +13,9 @@ Author: Joanna Tomanek
 Submitted: Fri, June 13 2014 by Felix Jung
 
 Input: 
-- lag - lag value
-- a1 - alpha_1
-- a2 - alpha_2
+- lag : lag value
+- a1 : alpha_1
+- a2 : alpha_2
 
 Example: 
 - a1=0.5, a2=0.4 and lag=30
