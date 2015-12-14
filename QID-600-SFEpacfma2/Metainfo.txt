@@ -13,9 +13,9 @@ Author: Christian M. Hafner, Ying Chen
 Submitted: Tue, June 17 2014 by Franziska Schulz
 
 Input: 
-- lag - lag value
-- b1 - beta_1
-- b2 - beta_2
+- lag : lag value
+- b1 : beta_1
+- b2 : beta_2
 
 Example: 
 - b1=0.5, b2=0.4 and lag=30
