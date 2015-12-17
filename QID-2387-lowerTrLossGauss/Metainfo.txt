@@ -18,6 +18,7 @@ Input:
 - LAP (scalar) : Lower attachment points
 - R (scalar) : recovery rate
 
-Output: LowerETL (scalar) : Lower expected tranche loss
+Output:
+- LowerETL (scalar) : Lower expected tranche loss
 
 Example: 'LowerETL=lowerTrLossGauss(sqrtBCbef,R,defProb,LAP)'
