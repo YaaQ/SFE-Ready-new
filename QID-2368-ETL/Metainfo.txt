@@ -1,0 +1,23 @@
+Name of QuantLet: ETL
+
+Published in: Statistics of Financial Markets
+
+Description: 'Calculates expected loss of the equity tranche calculated using the one factor Gaussian model with one-year default probability computed from the iTraxx Index Series 8 with 5 years maturity on 20071022.'
+
+Keywords: Credit Risk, Equity tranche, Expected loss, Gauss Kronrod, default, integration, multivariate normal, normal, numerical integration, gaussian, asset, financial, plot, graphical representation
+
+See also: SFEbaseCorr, CompCorrGaussModelCDO, SFEPortfolioLossDensity, SFEcompCorr, SFEgaussCop, BaseCorrGaussModelCDO, SFEETLGaussTr1, lowerTrLossGauss
+
+Author: Awdesch Melzer
+
+Submitted: Wed, April 23 2014 by Awdesch Melzer
+
+Input: 
+- defProb (scalar) : default probability
+- R (scalar) : recovery rate
+- UAP (scalar) : Upper attachment points
+- a (scalar) : square-root of compound correlation
+
+Output: EL (scalar) : expected loss
+
+Example: 'EL = ETL(a,R,defProb,UAP)'
