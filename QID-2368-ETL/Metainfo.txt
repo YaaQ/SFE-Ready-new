@@ -18,6 +18,7 @@ Input:
 - UAP (scalar) : Upper attachment points
 - a (scalar) : square-root of compound correlation
 
-Output: EL (scalar) : expected loss
+Output:
+- EL (scalar) : expected loss
 
 Example: 'EL = ETL(a,R,defProb,UAP)'
