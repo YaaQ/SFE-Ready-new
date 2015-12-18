@@ -6,7 +6,7 @@ Description: 'Computes European/American option prices using a binomial tree for
 
 Keywords: binomial, tree, asset, call, put, option, option-price, european-option, dividends, financial, black-scholes
 
-See also: SFEbitreeFDiv, SFEbitreePDiv
+See also: SFEbitreeFDiv, SFEbitreePDiv, SFSbitreeNDiv
 
 Author: Awdesch Melzer, Ying Chen
 
